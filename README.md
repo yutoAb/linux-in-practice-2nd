@@ -12,3 +12,7 @@ $ sudo adduser `id -un` libvirt
 $ sudo adduser `id -un` libvirt-qemu
 $ sudo adduser `id -un` kvm
 ```
+
+## メモ
+### 2025/11/16
+読み始め
